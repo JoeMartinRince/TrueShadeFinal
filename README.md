@@ -12,5 +12,5 @@
   <img src="screenshot/10.png" width="250" />
 </p>
 
-View your app in Online: https://ai.studio/apps/drive/1pEeoBy3Eg-VQWxSEzSouS5lTU5qzvHtH
+
 
