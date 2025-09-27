@@ -1,0 +1,7 @@
+{
+  "name": "Copy of TrueShade AI Style Assistant",
+  "description": "An AI-powered style assistant that provides personalized makeup, beard, and clothing recommendations based on a webcam photo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
